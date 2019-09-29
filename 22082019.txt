@@ -1,0 +1,96 @@
+_spPageContextInfo.userDisplayName
+
+widthrae in senior details 
+
+ <div class="col-lg-12">
+                                  <p  class="anchorcolor">Congratulations on your promotion to Senior! You are now eligible to register for the Harvard Senior Program (HSP) - a unique and optional leadership learning opportunity just for new Seniors.  </p>
+
+                                  <p  class="anchorcolor">This fully virtual program, co-developed with Harvard, combines live sessions with Harvard Business School professors and staff, as well as group and self-study activities that you complete on your own time. HSP focuses on leaderships skills identified by focus groups of your peers: designed by Seniors, for Seniors!</p>
+                                  
+                               </div> 
+                               <label>Features of HSP: </label>
+                               <div class="col-lg-12">
+                                 <ul class="bulletin">
+                                   <li>Six courses are being offered - three during Wave 1 in late October and three in Wave 2 in late November. You can enroll in one course per Wave (two in total).</li>
+                                   <li>Each course requires approximately seven hours over a three-week period.</li>
+                                   <li>You'll have access to Harvard resources, including online course content.</li>
+                                   <li>Upon successful completion of at least one course, you will receive a one-year digital subscription to Harvard Business Review.</li>
+                                   <li>As a cross-service line program, participation provides an opportunity to build your network during course activities.</li>
+                                   <li>Acknowledgement of course completion if your participation meets the course requirements. You have a two-week grace period to complete the work if you can't attend live. </li>
+                                 </ul>
+                               </div>
+                               <label class="col-lg-12">
+                                  Next steps: 
+                               </label>
+                               <div class="col-lg-12">
+                                <ul class="bulletin">
+                                  <li>Read the <a href="" class="anchorcolor" style="color:blue !important">course descriptions</a> and discuss your development plan with your counselor.</li>
+                                  <li><a href="" class="anchorcolor" style="color:blue !important">Register for the HSP</a> between now and October 10. Course capacities are limited, so enroll as soon as possible.</li>
+                                  <li>Block your time on your calendar to complete the course work and discuss with your team.</li>
+                                </ul>
+                               </div>
+                               <div class="col-lg-12 anchorcolor">
+                                  Have more questions? Check out this <a href="" class="anchorcolor" style="color:blue !important">FAQ</a> for more details or <a href="" class="anchorcolor" style="color:blue !important">send us an email</a>.
+                               </div>
+
+?Other locations
+
+
+FAQ title is not there
+
+Add data to new column in registration Page
+
+With Draw request form for wave two
+
+Admin Page
+
+SP.Data.Senior_x0020_Details_x0020_Wave_x0020_2ListItem
+
+Americas.hsp@ey.com
+Sarah McCallum 
+
+3.	AgencyDocument Viewers
+
+Course Details (List of courses which exception is requested for):
+
+From the below menus, please select the information that best describes your demographic informtion. Once you have completed your selections, please click 'Get Courses' in order to view and select the courses that you wish to apply the exception request to.
+
+ $('#contentDescription').empty();
+   $('#contentDescription').append('<label class="Title fontsRegular">Thank you for your request. Your request has been submitted successfully.</label>');
+
+
+getexceptionalselectedcourse()
+getexceptionalselectedcourse()
+
+ $('.modal-footer').empty();
+ $('.modal-footer').append(
+
+94011610275926055
+
+Exception Reason
+
+Start_x0020_Date
+End_x0020_Date
+Policy_x0020_Deadline
+stdate
+eddate
+policy
+var stdate='';var eddate=''; var policydeadline='';
+
+l2approver
+
+
+upload attachment -Changes
+
+Adjust Deadline -changes
+
+Pending Information Status 
+userinfodata.push(uservalue);
+
+    for (var i = 0; i < checkedDataother.length; i++) {
+
+        for (var j = 0; j < userinfodata.length; j++) {
+
+  if (property.Key == 'PreferredName') {
+               usernamevalue  = (property.Value).toString();
+            }
